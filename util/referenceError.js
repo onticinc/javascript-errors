@@ -23,6 +23,6 @@ function referenceErrorFunction() {
 
 module.exports = {
 
-    referenceError,
+    referenceErrorFunction,
 
 }

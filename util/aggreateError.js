@@ -1,6 +1,6 @@
 // Aggregate Error = https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AggregateError
 
-function catchAggregatError() {
+function catchAggregateError() {
     Promise.any([
         Promise.reject(new Error("some error")),
     ]).catch(e => {
@@ -26,7 +26,7 @@ function throwAggregateError() {
 
 module.exports = {
 
-    catchAggregatError,
+    catchAggregateError,
     throwAggregateError
 
 }
