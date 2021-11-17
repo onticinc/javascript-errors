@@ -26,5 +26,5 @@ const aggregateError = require('./util/aggreateError');
 // uriError.uriErrorFunction();
 // uriError.catchUriError();
 
-
-
+console.log(e.errors);
+console.loc(e.stack);
