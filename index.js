@@ -14,10 +14,10 @@ const aggregateError = require('./util/aggreateError');
 // syntaxError.syntaxError();
 
 // // range error.
-// rangeError.check(800);
+// rangeError.check(500);
 
 // // reference error. 
-// referenceError.referenceErrorFunction();
+referenceError.referenceErrorFunction();
 
 // // type error.
 // typeError.typeError();

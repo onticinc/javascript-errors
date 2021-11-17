@@ -33,6 +33,6 @@ function uriErrorFunction() {
 
 module.exports = {
 
-    uriError,
+    uriErrorFunction,
 
 }

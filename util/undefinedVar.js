@@ -17,7 +17,7 @@ function undefinedVar() {
 }
 
 module.exports = {
-    EvalError,
-    check()
+
+    undefinedVar
 
 }
