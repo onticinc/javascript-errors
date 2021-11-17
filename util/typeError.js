@@ -25,6 +25,6 @@ function typeError() {
 
 module.exports = {
 
-    TypeError,
+    typeError,
 
 }

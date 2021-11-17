@@ -34,5 +34,6 @@ function uriErrorFunction() {
 module.exports = {
 
     uriErrorFunction,
+    catchUriError,
 
 }

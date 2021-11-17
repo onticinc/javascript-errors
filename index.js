@@ -17,14 +17,14 @@ const aggregateError = require('./util/aggreateError');
 // rangeError.check(500);
 
 // // reference error. 
-referenceError.referenceErrorFunction();
+// referenceError.referenceErrorFunction();
 
 // // type error.
-// typeError.typeError();
+//typeError.typeError();
 
 // URI Error
 // uriError.uriErrorFunction();
-
+// uriError.catchUriError();
 
 
 
