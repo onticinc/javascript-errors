@@ -21,3 +21,9 @@ try {
     console.log(e.columnNumber)          // 0
     console.log(e.stack)                 // "@Scratchpad/2:2:9\n"
 }
+
+module.exports = {
+
+    TypeError,
+
+}
